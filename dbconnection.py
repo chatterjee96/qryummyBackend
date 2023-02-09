@@ -10,11 +10,11 @@ from userModel import Customer
 from cartModel import Cart
 
 # Variables for database connection
-endpoint = 'qryummyv2.cpda1jo1k8hj.us-east-1.rds.amazonaws.com'
+endpoint = ''
 port = 3306
-dbuser = 'root'
-password = 'Password1234'
-database='qryummy'
+dbuser = ''
+password = ''
+database=''
 
 
 # Timing function executions
